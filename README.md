@@ -1,2 +1,2 @@
-# vegetables-frontend
-vegetables
+# 基于Vue3.0的蔬菜商城-前端
+基于Vue3.0创建的蔬菜商城，项目目前处于构建状态。 --2020.04.08
